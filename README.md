@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender nova
 ## 🚀 Minhas Habilidades
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VsCode](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/:measure/:extensionId)
+
 
 
 ## 📈 Estatísticas do GitHub
