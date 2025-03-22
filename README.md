@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender nova
 linguagens de programação e trabalhar em projetos desafiadores.
 
 ## 🚀 Minhas Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Minhas habilidades](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,lua,robloxstudio,vscode)
 
 
