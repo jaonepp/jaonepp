@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Jaonepp 👋
 
-<!--
-**jaonepp/jaonepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas linguagens de programação e trabalhar em projetos desafiadores.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jaonepp&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jaonepp&layout=compact&theme=radical)
+
+## 🌟 Projetos Destacados
+- [Projeto 1](https://github.com/jaonepp/projeto1)
+- [Projeto 2](https://github.com/jaonepp/projeto2)
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/jaonepp)
+- [Twitter](https://twitter.com/jaonepp)
+- [Email](mailto:jaonepp@example.com)
