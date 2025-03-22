@@ -14,10 +14,5 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender nova
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jaonepp&layout=compact&theme=radical)
 
 ## 🌟 Projetos Destacados
-- [Projeto 1](https://github.com/jaonepp/projeto1)
-- [Projeto 2](https://github.com/jaonepp/projeto2)
-
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/jaonepp)
-- [Twitter](https://twitter.com/jaonepp)
-- [Email](mailto:jaonepp@example.com)
+- [Projetin 1](https://github.com/jaonepp/Portifolio-do-jaone)
+- [Projetin 2](https://github.com/jaonepp/Portifolio-do-jaone)
