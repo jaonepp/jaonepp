@@ -1,5 +1,5 @@
 # Olá, eu sou Jaonepp 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Black&size=40&duration=2000&pause=1000&width=550&height=75&lines=Ol%C3%A1%2C+me+chamo+Juan!)](https://git.io/typing-svg)
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas linguagens de programação e trabalhar em projetos desafiadores.
 
 ## 🚀 Minhas Habilidades
