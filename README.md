@@ -3,7 +3,7 @@
 
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender novas 
-linguagens de programação e trabalhar em projetos desafiadores.
+linguagens de programação e trabalhar em projetos.
 
 ## 🚀 Minhas Habilidades
 
