@@ -7,7 +7,7 @@ linguagens de programação e trabalhar em projetos.
 
 ## 🚀 Minhas Habilidades
 
-![Minhas habilidades](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,lua,robloxstudio,vscode)
+![Minhas habilidades](https://go-skill-icons.vercel.app/api/icons?i=html,css,lua,robloxstudio,vscode)
 
 
 
